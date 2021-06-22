@@ -121,4 +121,4 @@ levelplot(melt_amount, col.regions=clb)
 
 #installo pacchetto "knitr"
 
-install.packages("knitr") 
+install.packages("knitr")  
