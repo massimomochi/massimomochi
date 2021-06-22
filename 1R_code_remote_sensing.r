@@ -8,8 +8,7 @@
 # primo passaggio il settaggio della Working directory 
 #setwd("-/lab/")
 
-setwd("~/Desktop/lab") #io ho Mac - speghiamo a R dove andare a prendere oggetti
-
+setwd("C:/lab/") # Windows
 
 # inseriamo ora i dati , prendiamo da R attraverso un altro comando i dati nella cartella 
 # funzione "brick" importa in blocco le immagini per farne una unica satellitare 
