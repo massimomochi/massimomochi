@@ -9,7 +9,7 @@ library(raster)
 install.packages("ncdf4")
 library(ncdf4) 
 
-setwd("~/Desktop/lab")
+setwd("C:/lab/") # Windows
 
 #dobbiamo dare un nome al dataset " ALBEDO " , caricihiamo un singolo strato al momento funzione raster 
 
