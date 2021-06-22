@@ -2,9 +2,7 @@
 #Greenland increase of temperature
 #Data and code from Emanuela Cosma 
 
-setwd("~/Desktop/lab/greenland")
-
-#che pacchetti utilizzeremo???
+setwd("C:/lab/") # Windows
 
 # install.packages("raster") vanno sempre messi prima della setwd
 library(raster)
