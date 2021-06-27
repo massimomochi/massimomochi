@@ -31,7 +31,7 @@ p224r63_2011 <- brick("p224r63_2011_masked.grd")
 # impacchettamento - poi troviamo le dimensioni ( piccole ) - n° righe - n° colonne - calcolo pixel : righe per colonne 
 # milioni di pixel per ogni banda - risoluzione 30mt - estensione , ci sono le coordinate - SI 
 # sorgente , da dove lo ho preso - banda SRE (1) ecc ... fino alla (7) 
-# riflettanze 
+ 
 
 # visualizzare bande per visualizzare valori di riflettanza : funzione plot 
 
